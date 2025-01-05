@@ -1,6 +1,6 @@
 *01  Mafft多序列比对*
 ```bash
-mafft --thread 64 --auto L.fasta > aligned_L_1774.fasta
+mafft --thread 64 --auto genome_1774.fasta > aligned_genome_1774.fasta
 ```
 
 *02  iqtree建树*
