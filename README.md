@@ -1,2 +1,2 @@
 # 015_Mafft-IQtree_Workflow
-The shell scripts will be used in Mafft and IQtree
+用来跑MAFFT多序列比对和IQ-tree建树的指令
